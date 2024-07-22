@@ -9,7 +9,7 @@ Here I upload DSA codes and Javascript codes that i learn and solve everyday.
 
 
 ## 🚀 About Me
-I'm currently learning full stack development and data structure and algorithms on java.
+I'm currently learning full stack development and data structure and algorithms in java.
 
 
 ## 🔗 Links
